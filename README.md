@@ -10,7 +10,6 @@ git commit -m "Commit Message"
 git push
 ```
 
-![Ender dragon] (https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0a/Ender_Dragon.gif/revision/latest?cb=20210107043116
-)
+![Ender dragon] (https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0a/Ender_Dragon.gif)
 
 Ender dragon :upside_down_face:
